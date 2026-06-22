@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos de luna mística
+
+This log tracks the cryptographic history and versioning for the song **Besos de luna mística** (besos-de-luna-mistica).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T06:18:37.261804 | `v1` | `d7ac1dc93d65f9f09bd9a56867248a6b7efd3cbd2b2f0f828eba7fd56e407d9c` | `20639ed677b58fb671d29af4cd683af95275fd0483c94dce27e426e8b4054c97` | `2026-06-22_besos-de-luna-mistica-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
