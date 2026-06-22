@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Besos de
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T06:18:37.261804 | `v1` | `d7ac1dc93d65f9f09bd9a56867248a6b7efd3cbd2b2f0f828eba7fd56e407d9c` | `20639ed677b58fb671d29af4cd683af95275fd0483c94dce27e426e8b4054c97` | `2026-06-22_besos-de-luna-mistica-v1.txt` |
+| 2026-06-22T07:11:35.440464 | `v2` | `f66266eb48ad6df8bb5f7975b8c892d4972172c5838addf9c006c44ac878c2dc` | `b366edc2f1afba20edb6f0a9ed178bcb63047a489dedd7d1d80e973b2ebfafc0` | `2026-06-22_besos-de-luna-mistica-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*

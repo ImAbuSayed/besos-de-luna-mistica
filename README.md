@@ -15,7 +15,7 @@
 | **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-luna-mistica/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Besos de luna mística](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-mistica/) |
+| **Get License** | [Obtain a Music License for Besos de luna mística](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-mistica/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `d7ac1dc93d65f9f09bd9a56867248a6b7efd3cbd2b2f0f828eba7fd56e407d9c` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `f66266eb48ad6df8bb5f7975b8c892d4972172c5838addf9c006c44ac878c2dc` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
