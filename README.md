@@ -12,7 +12,7 @@
 |-------|---------|
 | **Title** | Besos de luna mística |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 22, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-de-luna-mistica/) |
 | **License** | [View License](./LICENSE.md) |
 | **Get License** | [Secure Licensing Rights for Besos de luna mística](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-de-luna-mistica/) |
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Besos de luna mística brillando en la ciudad
-> Tú y yo rompiendo el suelo en la pura oscuridad
-> Tu cuerpo es un misterio que yo quiero descifrar
-> La noche es una magia que acaba de comenzar
+> Besos de luna mística, me envuelven sin piedad
+> Tu fuego en la penumbra, mi nueva realidad
+> La noche es testigo de esta electricidad
+> Tus labios son el mapa, yo quiero navegar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
